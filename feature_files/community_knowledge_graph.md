@@ -7,6 +7,7 @@ This feature discovers Reddit communities in memory by following subreddit-to-au
 ## Key Points
 
 - Seeds, sampling sizes, traversal depth, and independent hard ceilings come from the matching read-only TOML parameter file.
+- The singular entrypoint loads Reddit credentials from the root `.env` file at startup without overriding credentials already present in the process environment.
 - Subreddits and users are compared case-insensitively while their first observed spelling is retained for display.
 - Encounter counts are independent from expansion deduplication, and globally observed submission IDs prevent duplicate observations from inflating frequencies.
 - A subreddit is fetched at most once and a user history is fetched at most once.
@@ -16,6 +17,7 @@ This feature discovers Reddit communities in memory by following subreddit-to-au
 ## Relevant Files
 
 - `parameter_files/community_knowledge_graph.toml`: Seeds, sampling sizes, depth, and crawl ceilings.
+- `.env.example`: Non-secret template for the required Reddit credentials.
 - `src/community_graph/config.py`: Parameter and credential loading.
 - `src/community_graph/reddit_client.py`: Project-owned read-only Reddit adapter.
 - `src/community_graph/crawler.py`: Bounded breadth-first traversal and result model.
@@ -31,3 +33,4 @@ HACKING
 ## State Log
 
 - 2026-07-27: Implemented the initial bounded, in-memory Reddit community discovery crawler with deterministic reporting and fixture-only verification.
+- 2026-07-27: Added project-root `.env` credential loading during entrypoint startup while preserving process-environment precedence.

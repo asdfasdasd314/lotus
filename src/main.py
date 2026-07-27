@@ -1,5 +1,9 @@
 """Singular entrypoint for bounded Reddit community discovery."""
 
+from pathlib import Path
+
+from dotenv import load_dotenv
+
 from community_graph.config import (
     ConfigurationError,
     load_crawl_config,
@@ -10,7 +14,12 @@ from community_graph.reddit_client import PrawRedditReader, RedditClientError
 from community_graph.reporting import render_report
 
 
+ROOT_ENV_FILE = Path(__file__).resolve().parents[1] / ".env"
+
+
 def main() -> int:
+    load_dotenv(ROOT_ENV_FILE)
+
     try:
         config = load_crawl_config()
         credentials = load_reddit_credentials()

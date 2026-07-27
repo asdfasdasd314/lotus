@@ -35,15 +35,16 @@ Install the project with its test dependencies:
 python -m pip install -e '.[test]'
 ```
 
-Provide read-only Reddit application credentials through the environment:
+Copy the example environment file and fill in your read-only Reddit application
+credentials:
 
-```text
-REDDIT_CLIENT_ID
-REDDIT_CLIENT_SECRET
-REDDIT_USER_AGENT
+```bash
+cp .env.example .env
 ```
 
-Use an accurate, application-specific user agent, then run the singular entrypoint:
+The entrypoint loads `.env` from the project root at startup. Existing process
+environment variables take precedence over values in the file. Use an accurate,
+application-specific user agent, then run:
 
 ```bash
 python src/main.py
