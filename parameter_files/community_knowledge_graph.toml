@@ -12,13 +12,14 @@ seed_subreddits = [
   "MachineLearning",
   "artificial",
   "LocalLLaMA",
-  "technology",
   "startups",
   "Entrepreneur",
   "SaaS",
   "SideProject",
   "indiehackers",
-  "coding",
+  "vibecoding",
+  "codex",
+  "PredictionsMarkets",
 ]
 
 subreddit_post_limit = 10
