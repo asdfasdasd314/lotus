@@ -64,6 +64,9 @@ class PrawRedditReader:
             submissions = self._reddit.redditor(username).submissions.new(limit=limit)
             return [self._to_observation(submission) for submission in submissions]
         except Exception as error:
+            response = getattr(error, "response", None)
+            if getattr(response, "status_code", None) == 404:
+                return []
             raise RedditClientError(
                 f"Could not fetch recent posts for u/{username}: {error}"
             ) from error

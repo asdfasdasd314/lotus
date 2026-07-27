@@ -23,9 +23,9 @@
       "source_file": "src/community_graph/__init__.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_init",
-      "community": 0,
-      "community_name": "coding.md",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_init_py",
+      "community": 12,
+      "community_name": "__init__.py",
       "norm_label": "__init__.py"
     },
     {
@@ -34,9 +34,9 @@
       "source_file": "src/community_graph/__init__.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_init_rationale_1",
-      "community": 0,
-      "community_name": "coding.md",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_init_rationale_1",
+      "community": 12,
+      "community_name": "__init__.py",
       "norm_label": "bounded reddit community discovery."
     },
     {
@@ -45,7 +45,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_config",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "config.py"
@@ -56,7 +56,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "src_community_graph_config_configurationerror",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_configurationerror",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "configurationerror"
@@ -78,7 +78,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L23",
       "_origin": "ast",
-      "id": "src_community_graph_config_normalize_identity",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_normalize_identity",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "normalize_identity()"
@@ -89,7 +89,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L28",
       "_origin": "ast",
-      "id": "src_community_graph_config_crawlconfig",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "crawlconfig"
@@ -100,9 +100,9 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L41",
       "_origin": "ast",
-      "id": "src_community_graph_config_redditcredentials",
-      "community": 1,
-      "community_name": "planning.md",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
+      "community": 6,
+      "community_name": "main.py",
       "norm_label": "redditcredentials"
     },
     {
@@ -111,7 +111,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L47",
       "_origin": "ast",
-      "id": "src_community_graph_config_load_crawl_config",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "load_crawl_config()"
@@ -133,7 +133,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L104",
       "_origin": "ast",
-      "id": "src_community_graph_config_load_reddit_credentials",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_reddit_credentials",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "load_reddit_credentials()"
@@ -144,7 +144,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_config_rationale_1",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_rationale_1",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "load community discovery parameters and reddit credentials."
@@ -155,7 +155,7 @@
       "source_file": "src/community_graph/config.py",
       "source_location": "L20",
       "_origin": "ast",
-      "id": "src_community_graph_config_rationale_20",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_rationale_20",
       "community": 6,
       "community_name": "main.py",
       "norm_label": "raised when startup configuration is missing or invalid."
@@ -166,7 +166,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_crawler",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "crawler.py"
@@ -177,7 +177,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L13",
       "_origin": "ast",
-      "id": "src_community_graph_crawler_terminationreason",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "terminationreason"
@@ -199,7 +199,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L23",
       "_origin": "ast",
-      "id": "src_community_graph_crawler_crawlresult",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "crawlresult"
@@ -210,7 +210,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L40",
       "_origin": "ast",
-      "id": "src_community_graph_crawler_crawl",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "crawl()"
@@ -221,7 +221,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L140",
       "_origin": "ast",
-      "id": "src_community_graph_crawler_begin_observation",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_begin_observation",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "_begin_observation()"
@@ -232,7 +232,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L153",
       "_origin": "ast",
-      "id": "src_community_graph_crawler_truncate",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_truncate",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "_truncate()"
@@ -243,7 +243,7 @@
       "source_file": "src/community_graph/crawler.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_crawler_rationale_1",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_rationale_1",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "bounded breadth-first traversal of subreddit and user relationships."
@@ -384,7 +384,7 @@
       "label": "._to_observation()",
       "file_type": "code",
       "source_file": "src/community_graph/reddit_client.py",
-      "source_location": "L72",
+      "source_location": "L75",
       "_origin": "ast",
       "id": "src_community_graph_reddit_client_prawredditreader_to_observation",
       "community": 1,
@@ -419,7 +419,7 @@
       "source_file": "src/community_graph/reporting.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_reporting",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_py",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "reporting.py"
@@ -430,7 +430,7 @@
       "source_file": "src/community_graph/reporting.py",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "src_community_graph_reporting_render_report",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "render_report()"
@@ -441,7 +441,7 @@
       "source_file": "src/community_graph/reporting.py",
       "source_location": "L53",
       "_origin": "ast",
-      "id": "src_community_graph_reporting_render_frequency_table",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_frequency_table",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "_render_frequency_table()"
@@ -463,7 +463,7 @@
       "source_file": "src/community_graph/reporting.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "src_community_graph_reporting_rationale_1",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_rationale_1",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "deterministic text reporting for crawl results."
@@ -483,7 +483,7 @@
       "label": "main()",
       "file_type": "code",
       "source_file": "src/main.py",
-      "source_location": "L13",
+      "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_main",
       "community": 6,
@@ -507,7 +507,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_community_graph_crawler.py"
@@ -518,7 +518,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L10",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_post",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "post()"
@@ -529,7 +529,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L18",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_fakeredditreader",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "fakeredditreader"
@@ -540,7 +540,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L19",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_fakeredditreader_init",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader_init",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": ".__init__()"
@@ -551,7 +551,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L25",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_fakeredditreader_get_recent_subreddit_posts",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader_get_recent_subreddit_posts",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": ".get_recent_subreddit_posts()"
@@ -562,7 +562,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L29",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_fakeredditreader_get_recent_user_posts",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader_get_recent_user_posts",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": ".get_recent_user_posts()"
@@ -573,7 +573,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L35",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_config",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_config",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "config()"
@@ -584,7 +584,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L49",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_seed_names_are_normalized_and_processed_once()"
@@ -595,7 +595,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L63",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_repeated_user_encounters_have_one_history_fetch()"
@@ -606,7 +606,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L81",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch()"
@@ -617,7 +617,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L101",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_breadth_first_traversal_respects_depth_and_counts_boundary_users()"
@@ -628,7 +628,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L125",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_deleted_authors_are_skipped()"
@@ -639,7 +639,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L137",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_duplicate_submission_ids_do_not_inflate_any_counter()"
@@ -650,7 +650,7 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L196",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_each_hard_ceiling_stops_without_overshooting",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_each_hard_ceiling_stops_without_overshooting",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_each_hard_ceiling_stops_without_overshooting()"
@@ -661,10 +661,120 @@
       "source_file": "tests/test_community_graph_crawler.py",
       "source_location": "L218",
       "_origin": "ast",
-      "id": "tests_test_community_graph_crawler_test_exhausted_queue_completes",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_exhausted_queue_completes",
       "community": 2,
       "community_name": "architecture.md",
       "norm_label": "test_exhausted_queue_completes()"
+    },
+    {
+      "label": "test_community_graph_reddit_client.py",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": "test_community_graph_reddit_client.py"
+    },
+    {
+      "label": "FakeUserSubmissions",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L8",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": "fakeusersubmissions"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L9",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_fakeusersubmissions_init",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".new()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_fakeusersubmissions_new",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": ".new()"
+    },
+    {
+      "label": "FakeReddit",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L16",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_fakereddit",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": "fakereddit"
+    },
+    {
+      "label": ".__init__()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_fakereddit_init",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": ".__init__()"
+    },
+    {
+      "label": ".redditor()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L20",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_fakereddit_redditor",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": ".redditor()"
+    },
+    {
+      "label": "reader_with_error()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L24",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_reader_with_error",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": "reader_with_error()"
+    },
+    {
+      "label": "test_missing_user_history_is_treated_as_empty()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L32",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_test_missing_user_history_is_treated_as_empty",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": "test_missing_user_history_is_treated_as_empty()"
+    },
+    {
+      "label": "test_other_user_history_errors_remain_fatal()",
+      "file_type": "code",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "tests_test_community_graph_reddit_client_test_other_user_history_errors_remain_fatal",
+      "community": 1,
+      "community_name": "planning.md",
+      "norm_label": "test_other_user_history_errors_remain_fatal()"
     },
     {
       "label": "test_community_graph_reporting.py",
@@ -672,7 +782,7 @@
       "source_file": "tests/test_community_graph_reporting.py",
       "source_location": "L1",
       "_origin": "ast",
-      "id": "tests_test_community_graph_reporting",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_py",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "test_community_graph_reporting.py"
@@ -683,7 +793,7 @@
       "source_file": "tests/test_community_graph_reporting.py",
       "source_location": "L7",
       "_origin": "ast",
-      "id": "tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "test_report_contains_summary_warning_and_deterministic_frequency_order()"
@@ -694,7 +804,7 @@
       "source_file": "tests/test_community_graph_reporting.py",
       "source_location": "L39",
       "_origin": "ast",
-      "id": "tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
+      "id": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
       "community": 0,
       "community_name": "coding.md",
       "norm_label": "test_completed_report_has_no_truncation_warning()"
@@ -1066,7 +1176,7 @@
       "label": "Core Philosophy",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L56",
+      "source_location": "L57",
       "_origin": "ast",
       "id": "readme_core_philosophy",
       "community": 5,
@@ -1077,7 +1187,7 @@
       "label": "MVP",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L80",
+      "source_location": "L81",
       "_origin": "ast",
       "id": "readme_mvp",
       "community": 5,
@@ -1088,7 +1198,7 @@
       "label": "Inputs",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L108",
+      "source_location": "L109",
       "_origin": "ast",
       "id": "readme_inputs",
       "community": 5,
@@ -1099,7 +1209,7 @@
       "label": "Outputs",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L149",
+      "source_location": "L150",
       "_origin": "ast",
       "id": "readme_outputs",
       "community": 5,
@@ -1110,7 +1220,7 @@
       "label": "1. Outreach plan",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L153",
+      "source_location": "L154",
       "_origin": "ast",
       "id": "readme_1_outreach_plan",
       "community": 5,
@@ -1121,7 +1231,7 @@
       "label": "2. Draft posts",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L188",
+      "source_location": "L189",
       "_origin": "ast",
       "id": "readme_2_draft_posts",
       "community": 5,
@@ -1132,7 +1242,7 @@
       "label": "3. Validation report",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L206",
+      "source_location": "L207",
       "_origin": "ast",
       "id": "readme_3_validation_report",
       "community": 5,
@@ -1143,7 +1253,7 @@
       "label": "System Components",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L243",
+      "source_location": "L244",
       "_origin": "ast",
       "id": "readme_system_components",
       "community": 5,
@@ -1154,7 +1264,7 @@
       "label": "Community Discovery",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L247",
+      "source_location": "L248",
       "_origin": "ast",
       "id": "readme_community_discovery",
       "community": 5,
@@ -1165,7 +1275,7 @@
       "label": "Community Graph",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L270",
+      "source_location": "L271",
       "_origin": "ast",
       "id": "readme_community_graph",
       "community": 5,
@@ -1176,7 +1286,7 @@
       "label": "Outreach Planner",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L294",
+      "source_location": "L295",
       "_origin": "ast",
       "id": "readme_outreach_planner",
       "community": 5,
@@ -1187,7 +1297,7 @@
       "label": "Submission Manager",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L307",
+      "source_location": "L308",
       "_origin": "ast",
       "id": "readme_submission_manager",
       "community": 5,
@@ -1198,7 +1308,7 @@
       "label": "Response Ingestion",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L328",
+      "source_location": "L329",
       "_origin": "ast",
       "id": "readme_response_ingestion",
       "community": 5,
@@ -1209,7 +1319,7 @@
       "label": "Knowledge Extraction",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L343",
+      "source_location": "L344",
       "_origin": "ast",
       "id": "readme_knowledge_extraction",
       "community": 5,
@@ -1220,7 +1330,7 @@
       "label": "Where The Technical Nuance Is",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L375",
+      "source_location": "L376",
       "_origin": "ast",
       "id": "readme_where_the_technical_nuance_is",
       "community": 5,
@@ -1231,9 +1341,9 @@
       "label": "Community Discovery",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L381",
+      "source_location": "L382",
       "_origin": "ast",
-      "id": "readme_community_discovery_381",
+      "id": "readme_community_discovery_382",
       "community": 5,
       "community_name": "README.md",
       "norm_label": "community discovery"
@@ -1242,7 +1352,7 @@
       "label": "Community Ranking",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L394",
+      "source_location": "L395",
       "_origin": "ast",
       "id": "readme_community_ranking",
       "community": 5,
@@ -1253,7 +1363,7 @@
       "label": "Response Understanding",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L413",
+      "source_location": "L414",
       "_origin": "ast",
       "id": "readme_response_understanding",
       "community": 5,
@@ -1264,7 +1374,7 @@
       "label": "Knowledge Accumulation",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L430",
+      "source_location": "L431",
       "_origin": "ast",
       "id": "readme_knowledge_accumulation",
       "community": 5,
@@ -1275,7 +1385,7 @@
       "label": "Non-Goals",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L464",
+      "source_location": "L465",
       "_origin": "ast",
       "id": "readme_non_goals",
       "community": 5,
@@ -1286,7 +1396,7 @@
       "label": "Long-Term Vision",
       "file_type": "document",
       "source_file": "README.md",
-      "source_location": "L478",
+      "source_location": "L479",
       "_origin": "ast",
       "id": "readme_long_term_vision",
       "community": 5,
@@ -1341,7 +1451,7 @@
       "label": "Relevant Files",
       "file_type": "document",
       "source_file": "feature_files/community_knowledge_graph.md",
-      "source_location": "L16",
+      "source_location": "L18",
       "_origin": "ast",
       "id": "feature_files_community_knowledge_graph_relevant_files",
       "community": 3,
@@ -1352,7 +1462,7 @@
       "label": "Dev Mode",
       "file_type": "document",
       "source_file": "feature_files/community_knowledge_graph.md",
-      "source_location": "L27",
+      "source_location": "L30",
       "_origin": "ast",
       "id": "feature_files_community_knowledge_graph_dev_mode",
       "community": 3,
@@ -1363,7 +1473,7 @@
       "label": "State Log",
       "file_type": "document",
       "source_file": "feature_files/community_knowledge_graph.md",
-      "source_location": "L31",
+      "source_location": "L34",
       "_origin": "ast",
       "id": "feature_files_community_knowledge_graph_state_log",
       "community": 3,
@@ -1373,26 +1483,14 @@
   ],
   "links": [
     {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/community_graph/__init__.py",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_community_graph_init",
-      "target": "src_community_graph_crawler",
-      "confidence_score": 1.0
-    },
-    {
       "relation": "rationale_for",
       "confidence": "EXTRACTED",
       "source_file": "src/community_graph/__init__.py",
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_init_rationale_1",
-      "target": "src_community_graph_init",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_init_rationale_1",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_init_py",
       "confidence_score": 1.0
     },
     {
@@ -1402,8 +1500,8 @@
       "source_location": "L19",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config",
-      "target": "src_community_graph_config_configurationerror",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_configurationerror",
       "confidence_score": 1.0
     },
     {
@@ -1413,8 +1511,8 @@
       "source_location": "L28",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 1.0
     },
     {
@@ -1424,8 +1522,8 @@
       "source_location": "L47",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config",
-      "target": "src_community_graph_config_load_crawl_config",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config",
       "confidence_score": 1.0
     },
     {
@@ -1435,8 +1533,8 @@
       "source_location": "L104",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config",
-      "target": "src_community_graph_config_load_reddit_credentials",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_reddit_credentials",
       "confidence_score": 1.0
     },
     {
@@ -1446,8 +1544,8 @@
       "source_location": "L23",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config",
-      "target": "src_community_graph_config_normalize_identity",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_normalize_identity",
       "confidence_score": 1.0
     },
     {
@@ -1457,8 +1555,8 @@
       "source_location": "L41",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config",
-      "target": "src_community_graph_config_redditcredentials",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
       "confidence_score": 1.0
     },
     {
@@ -1468,56 +1566,8 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_rationale_1",
-      "target": "src_community_graph_config",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/community_graph/crawler.py",
-      "source_location": "L9",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_community_graph_crawler",
-      "target": "src_community_graph_config",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/community_graph/reddit_client.py",
-      "source_location": "L8",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_community_graph_reddit_client",
-      "target": "src_community_graph_config",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main.py",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_main",
-      "target": "src_community_graph_config",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/test_community_graph_crawler.py",
-      "source_location": "L5",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "src_community_graph_config",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_rationale_1",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_py",
       "confidence_score": 1.0
     },
     {
@@ -1527,7 +1577,7 @@
       "source_location": "L19",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_configurationerror",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_configurationerror",
       "target": "valueerror",
       "confidence_score": 1.0
     },
@@ -1539,8 +1589,8 @@
       "source_location": "L52",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_load_crawl_config",
-      "target": "src_community_graph_config_configurationerror",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_configurationerror",
       "confidence_score": 1.0
     },
     {
@@ -1551,8 +1601,8 @@
       "source_location": "L114",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_load_reddit_credentials",
-      "target": "src_community_graph_config_configurationerror",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_reddit_credentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_configurationerror",
       "confidence_score": 1.0
     },
     {
@@ -1562,8 +1612,8 @@
       "source_location": "L20",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_rationale_20",
-      "target": "src_community_graph_config_configurationerror",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_rationale_20",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_configurationerror",
       "confidence_score": 1.0
     },
     {
@@ -1574,8 +1624,8 @@
       "source_location": "L78",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_load_crawl_config",
-      "target": "src_community_graph_config_normalize_identity",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_normalize_identity",
       "confidence_score": 1.0
     },
     {
@@ -1587,8 +1637,8 @@
       "source_location": "L46",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawl",
-      "target": "src_community_graph_config_normalize_identity"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_normalize_identity"
     },
     {
       "relation": "references",
@@ -1598,8 +1648,8 @@
       "source_location": "L47",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_load_crawl_config",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 1.0
     },
     {
@@ -1610,8 +1660,8 @@
       "source_location": "L140",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_begin_observation",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_begin_observation",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 1.0
     },
     {
@@ -1622,8 +1672,8 @@
       "source_location": "L40",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawl",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 1.0
     },
     {
@@ -1633,8 +1683,8 @@
       "source_location": "L9",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawlresult",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 0.5
     },
     {
@@ -1644,8 +1694,8 @@
       "source_location": "L9",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_terminationreason",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 0.5
     },
     {
@@ -1657,8 +1707,8 @@
       "source_location": "L36",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_config",
-      "target": "src_community_graph_config_crawlconfig"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_config",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig"
     },
     {
       "relation": "uses",
@@ -1667,21 +1717,9 @@
       "source_location": "L5",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_fakeredditreader",
-      "target": "src_community_graph_config_crawlconfig",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_crawlconfig",
       "confidence_score": 0.5
-    },
-    {
-      "relation": "references",
-      "context": "return_type",
-      "confidence": "EXTRACTED",
-      "source_file": "src/community_graph/config.py",
-      "source_location": "L104",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_community_graph_config_load_reddit_credentials",
-      "target": "src_community_graph_config_redditcredentials",
-      "confidence_score": 1.0
     },
     {
       "relation": "uses",
@@ -1691,7 +1729,7 @@
       "weight": 0.8,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_postobservation",
-      "target": "src_community_graph_config_redditcredentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
       "confidence_score": 0.5
     },
     {
@@ -1702,7 +1740,7 @@
       "weight": 0.8,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_prawredditreader",
-      "target": "src_community_graph_config_redditcredentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
       "confidence_score": 0.5
     },
     {
@@ -1714,7 +1752,7 @@
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_prawredditreader_init",
-      "target": "src_community_graph_config_redditcredentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
       "confidence_score": 1.0
     },
     {
@@ -1725,7 +1763,7 @@
       "weight": 0.8,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_redditclienterror",
-      "target": "src_community_graph_config_redditcredentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
       "confidence_score": 0.5
     },
     {
@@ -1736,8 +1774,32 @@
       "weight": 0.8,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_redditreader",
-      "target": "src_community_graph_config_redditcredentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
       "confidence_score": 0.5
+    },
+    {
+      "relation": "references",
+      "context": "return_type",
+      "confidence": "EXTRACTED",
+      "source_file": "src/community_graph/config.py",
+      "source_location": "L104",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_reddit_credentials",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_redditcredentials",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/main.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "src_main_main",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config"
     },
     {
       "relation": "references",
@@ -1747,7 +1809,7 @@
       "source_location": "L47",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_config_load_crawl_config",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_crawl_config",
       "target": "path",
       "confidence_score": 1.0
     },
@@ -1757,23 +1819,11 @@
       "confidence": "INFERRED",
       "confidence_score": 0.8,
       "source_file": "src/main.py",
-      "source_location": "L15",
+      "source_location": "L25",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_main_main",
-      "target": "src_community_graph_config_load_crawl_config"
-    },
-    {
-      "relation": "calls",
-      "context": "call",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "src/main.py",
-      "source_location": "L16",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_main_main",
-      "target": "src_community_graph_config_load_reddit_credentials"
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_config_load_reddit_credentials"
     },
     {
       "relation": "imports_from",
@@ -1783,7 +1833,7 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
       "target": "src_community_graph_reddit_client",
       "confidence_score": 1.0
     },
@@ -1794,8 +1844,8 @@
       "source_location": "L140",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler",
-      "target": "src_community_graph_crawler_begin_observation",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_begin_observation",
       "confidence_score": 1.0
     },
     {
@@ -1805,8 +1855,8 @@
       "source_location": "L40",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler",
-      "target": "src_community_graph_crawler_crawl",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
       "confidence_score": 1.0
     },
     {
@@ -1816,8 +1866,8 @@
       "source_location": "L23",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler",
-      "target": "src_community_graph_crawler_crawlresult",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "confidence_score": 1.0
     },
     {
@@ -1827,8 +1877,8 @@
       "source_location": "L13",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler",
-      "target": "src_community_graph_crawler_terminationreason",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
       "confidence_score": 1.0
     },
     {
@@ -1838,8 +1888,8 @@
       "source_location": "L153",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler",
-      "target": "src_community_graph_crawler_truncate",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_truncate",
       "confidence_score": 1.0
     },
     {
@@ -1849,56 +1899,8 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_rationale_1",
-      "target": "src_community_graph_crawler",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/community_graph/reporting.py",
-      "source_location": "L7",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_community_graph_reporting",
-      "target": "src_community_graph_crawler",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main.py",
-      "source_location": "L8",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_main",
-      "target": "src_community_graph_crawler",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/test_community_graph_crawler.py",
-      "source_location": "L6",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "src_community_graph_crawler",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/test_community_graph_reporting.py",
-      "source_location": "L3",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_test_community_graph_reporting",
-      "target": "src_community_graph_crawler",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_rationale_1",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_py",
       "confidence_score": 1.0
     },
     {
@@ -1908,7 +1910,7 @@
       "source_location": "L10",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_terminationreason",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
       "target": "src_community_graph_reddit_client_redditreader",
       "confidence_score": 0.5
     },
@@ -1919,7 +1921,7 @@
       "source_location": "L13",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_terminationreason",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
       "target": "strenum",
       "confidence_score": 1.0
     },
@@ -1931,8 +1933,8 @@
       "source_location": "L153",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_truncate",
-      "target": "src_community_graph_crawler_terminationreason",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_truncate",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
       "confidence_score": 1.0
     },
     {
@@ -1942,8 +1944,8 @@
       "source_location": "L6",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_fakeredditreader",
-      "target": "src_community_graph_crawler_terminationreason",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_terminationreason",
       "confidence_score": 0.5
     },
     {
@@ -1954,8 +1956,8 @@
       "source_location": "L140",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_begin_observation",
-      "target": "src_community_graph_crawler_crawlresult",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_begin_observation",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "confidence_score": 1.0
     },
     {
@@ -1966,8 +1968,8 @@
       "source_location": "L40",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawl",
-      "target": "src_community_graph_crawler_crawlresult",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "confidence_score": 1.0
     },
     {
@@ -1977,7 +1979,7 @@
       "source_location": "L10",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawlresult",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "target": "src_community_graph_reddit_client_redditreader",
       "confidence_score": 0.5
     },
@@ -1989,8 +1991,8 @@
       "source_location": "L153",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_truncate",
-      "target": "src_community_graph_crawler_crawlresult",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_truncate",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "confidence_score": 1.0
     },
     {
@@ -2001,8 +2003,8 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_reporting_render_report",
-      "target": "src_community_graph_crawler_crawlresult",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult",
       "confidence_score": 1.0
     },
     {
@@ -2014,8 +2016,8 @@
       "source_location": "L40",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
-      "target": "src_community_graph_crawler_crawlresult"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult"
     },
     {
       "relation": "calls",
@@ -2026,8 +2028,32 @@
       "source_location": "L8",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
-      "target": "src_community_graph_crawler_crawlresult"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawlresult"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "src/main.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "src_main_main",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
+    },
+    {
+      "relation": "references",
+      "context": "parameter_type",
+      "confidence": "EXTRACTED",
+      "source_file": "src/community_graph/crawler.py",
+      "source_location": "L40",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
+      "target": "src_community_graph_reddit_client_redditreader",
+      "confidence_score": 1.0
     },
     {
       "relation": "calls",
@@ -2037,8 +2063,8 @@
       "source_location": "L72",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawl",
-      "target": "src_community_graph_crawler_begin_observation",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_begin_observation",
       "confidence_score": 1.0
     },
     {
@@ -2049,33 +2075,9 @@
       "source_location": "L59",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_crawl",
-      "target": "src_community_graph_crawler_truncate",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_truncate",
       "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "context": "parameter_type",
-      "confidence": "EXTRACTED",
-      "source_file": "src/community_graph/crawler.py",
-      "source_location": "L40",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_community_graph_crawler_crawl",
-      "target": "src_community_graph_reddit_client_redditreader",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "context": "call",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "src/main.py",
-      "source_location": "L18",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_main_main",
-      "target": "src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2086,8 +2088,8 @@
       "source_location": "L115",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2098,8 +2100,8 @@
       "source_location": "L130",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2110,8 +2112,8 @@
       "source_location": "L144",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2122,8 +2124,8 @@
       "source_location": "L199",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_each_hard_ceiling_stops_without_overshooting",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_each_hard_ceiling_stops_without_overshooting",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2134,8 +2136,8 @@
       "source_location": "L219",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_exhausted_queue_completes",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_exhausted_queue_completes",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2146,8 +2148,8 @@
       "source_location": "L93",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2158,8 +2160,8 @@
       "source_location": "L74",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2170,8 +2172,8 @@
       "source_location": "L52",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
-      "target": "src_community_graph_crawler_crawl"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_crawl"
     },
     {
       "relation": "calls",
@@ -2181,8 +2183,8 @@
       "source_location": "L146",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_crawler_begin_observation",
-      "target": "src_community_graph_crawler_truncate",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_begin_observation",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_crawler_truncate",
       "confidence_score": 1.0
     },
     {
@@ -2245,10 +2247,22 @@
       "context": "import",
       "confidence": "EXTRACTED",
       "source_file": "src/main.py",
-      "source_location": "L9",
+      "source_location": "L13",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_main",
+      "target": "src_community_graph_reddit_client",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports_from",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L5",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client",
       "target": "src_community_graph_reddit_client",
       "confidence_score": 1.0
     },
@@ -2260,7 +2274,7 @@
       "source_location": "L7",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
       "target": "src_community_graph_reddit_client",
       "confidence_score": 1.0
     },
@@ -2293,7 +2307,7 @@
       "context": "return_type",
       "confidence": "EXTRACTED",
       "source_file": "src/community_graph/reddit_client.py",
-      "source_location": "L72",
+      "source_location": "L75",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_prawredditreader_to_observation",
@@ -2331,7 +2345,7 @@
       "source_location": "L7",
       "weight": 0.8,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "target": "src_community_graph_reddit_client_postobservation",
       "confidence_score": 0.5
     },
@@ -2343,7 +2357,7 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "target": "src_community_graph_reddit_client_postobservation",
       "confidence_score": 1.0
     },
@@ -2397,7 +2411,7 @@
       "context": "call",
       "confidence": "EXTRACTED",
       "source_file": "src/community_graph/reddit_client.py",
-      "source_location": "L67",
+      "source_location": "L70",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_prawredditreader_get_recent_user_posts",
@@ -2439,6 +2453,52 @@
       "confidence_score": 1.0
     },
     {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L5",
+      "weight": 0.8,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakereddit",
+      "target": "src_community_graph_reddit_client_redditclienterror",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L5",
+      "weight": 0.8,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "target": "src_community_graph_reddit_client_redditclienterror",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L42",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_test_other_user_history_errors_remain_fatal",
+      "target": "src_community_graph_reddit_client_redditclienterror"
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L25",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_reader_with_error",
+      "target": "runtimeerror"
+    },
+    {
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "src/community_graph/reddit_client.py",
@@ -2475,7 +2535,7 @@
       "relation": "method",
       "confidence": "EXTRACTED",
       "source_file": "src/community_graph/reddit_client.py",
-      "source_location": "L72",
+      "source_location": "L75",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_community_graph_reddit_client_prawredditreader",
@@ -2488,10 +2548,44 @@
       "confidence": "INFERRED",
       "confidence_score": 0.8,
       "source_file": "src/main.py",
-      "source_location": "L17",
+      "source_location": "L26",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_main_main",
+      "target": "src_community_graph_reddit_client_prawredditreader"
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L5",
+      "weight": 0.8,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakereddit",
+      "target": "src_community_graph_reddit_client_prawredditreader",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "uses",
+      "confidence": "INFERRED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L5",
+      "weight": 0.8,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "target": "src_community_graph_reddit_client_prawredditreader",
+      "confidence_score": 0.5
+    },
+    {
+      "relation": "indirect_call",
+      "context": "argument",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L27",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_reader_with_error",
       "target": "src_community_graph_reddit_client_prawredditreader"
     },
     {
@@ -2525,8 +2619,8 @@
       "source_location": "L53",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_reporting",
-      "target": "src_community_graph_reporting_render_frequency_table",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_frequency_table",
       "confidence_score": 1.0
     },
     {
@@ -2536,8 +2630,8 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_reporting",
-      "target": "src_community_graph_reporting_render_report",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report",
       "confidence_score": 1.0
     },
     {
@@ -2547,33 +2641,21 @@
       "source_location": "L1",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_reporting_rationale_1",
-      "target": "src_community_graph_reporting",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_rationale_1",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_py",
       "confidence_score": 1.0
     },
     {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
+      "relation": "calls",
+      "context": "call",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
       "source_file": "src/main.py",
-      "source_location": "L10",
+      "source_location": "L35",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_main",
-      "target": "src_community_graph_reporting",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports_from",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "tests/test_community_graph_reporting.py",
-      "source_location": "L4",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "tests_test_community_graph_reporting",
-      "target": "src_community_graph_reporting",
-      "confidence_score": 1.0
+      "source": "src_main_main",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report"
     },
     {
       "relation": "calls",
@@ -2583,21 +2665,9 @@
       "source_location": "L40",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_reporting_render_report",
-      "target": "src_community_graph_reporting_render_frequency_table",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_frequency_table",
       "confidence_score": 1.0
-    },
-    {
-      "relation": "calls",
-      "context": "call",
-      "confidence": "INFERRED",
-      "confidence_score": 0.8,
-      "source_file": "src/main.py",
-      "source_location": "L26",
-      "weight": 1.0,
-      "_origin": "ast",
-      "source": "src_main_main",
-      "target": "src_community_graph_reporting_render_report"
     },
     {
       "relation": "calls",
@@ -2608,8 +2678,8 @@
       "source_location": "L45",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
-      "target": "src_community_graph_reporting_render_report"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report"
     },
     {
       "relation": "calls",
@@ -2620,8 +2690,8 @@
       "source_location": "L25",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
-      "target": "src_community_graph_reporting_render_report"
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_report"
     },
     {
       "relation": "references",
@@ -2631,7 +2701,7 @@
       "source_location": "L53",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "src_community_graph_reporting_render_frequency_table",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_src_community_graph_reporting_render_frequency_table",
       "target": "counter",
       "confidence_score": 1.0
     },
@@ -2644,7 +2714,7 @@
       "source_location": "L41",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
       "target": "counter"
     },
     {
@@ -2656,14 +2726,14 @@
       "source_location": "L9",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
       "target": "counter"
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "src/main.py",
-      "source_location": "L13",
+      "source_location": "L20",
       "weight": 1.0,
       "_origin": "ast",
       "source": "src_main",
@@ -2688,8 +2758,8 @@
       "source_location": "L35",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_config",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_config",
       "confidence_score": 1.0
     },
     {
@@ -2699,8 +2769,8 @@
       "source_location": "L18",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2710,8 +2780,8 @@
       "source_location": "L10",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "confidence_score": 1.0
     },
     {
@@ -2721,8 +2791,8 @@
       "source_location": "L101",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
       "confidence_score": 1.0
     },
     {
@@ -2732,8 +2802,8 @@
       "source_location": "L125",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
       "confidence_score": 1.0
     },
     {
@@ -2743,8 +2813,8 @@
       "source_location": "L137",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
       "confidence_score": 1.0
     },
     {
@@ -2754,8 +2824,8 @@
       "source_location": "L196",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_each_hard_ceiling_stops_without_overshooting",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_each_hard_ceiling_stops_without_overshooting",
       "confidence_score": 1.0
     },
     {
@@ -2765,8 +2835,8 @@
       "source_location": "L218",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_exhausted_queue_completes",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_exhausted_queue_completes",
       "confidence_score": 1.0
     },
     {
@@ -2776,8 +2846,8 @@
       "source_location": "L81",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
       "confidence_score": 1.0
     },
     {
@@ -2787,8 +2857,8 @@
       "source_location": "L63",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
       "confidence_score": 1.0
     },
     {
@@ -2798,8 +2868,8 @@
       "source_location": "L49",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler",
-      "target": "tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
       "confidence_score": 1.0
     },
     {
@@ -2810,8 +2880,8 @@
       "source_location": "L104",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
-      "target": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "confidence_score": 1.0
     },
     {
@@ -2822,8 +2892,8 @@
       "source_location": "L127",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
-      "target": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "confidence_score": 1.0
     },
     {
@@ -2834,8 +2904,8 @@
       "source_location": "L138",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
-      "target": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "confidence_score": 1.0
     },
     {
@@ -2846,8 +2916,8 @@
       "source_location": "L84",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
-      "target": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "confidence_score": 1.0
     },
     {
@@ -2858,8 +2928,8 @@
       "source_location": "L67",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
-      "target": "tests_test_community_graph_crawler_post",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_post",
       "confidence_score": 1.0
     },
     {
@@ -2869,8 +2939,8 @@
       "source_location": "L25",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_fakeredditreader",
-      "target": "tests_test_community_graph_crawler_fakeredditreader_get_recent_subreddit_posts",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader_get_recent_subreddit_posts",
       "confidence_score": 1.0
     },
     {
@@ -2880,8 +2950,8 @@
       "source_location": "L29",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_fakeredditreader",
-      "target": "tests_test_community_graph_crawler_fakeredditreader_get_recent_user_posts",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader_get_recent_user_posts",
       "confidence_score": 1.0
     },
     {
@@ -2891,8 +2961,8 @@
       "source_location": "L19",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_fakeredditreader",
-      "target": "tests_test_community_graph_crawler_fakeredditreader_init",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader_init",
       "confidence_score": 1.0
     },
     {
@@ -2903,8 +2973,8 @@
       "source_location": "L102",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_breadth_first_traversal_respects_depth_and_counts_boundary_users",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2915,8 +2985,8 @@
       "source_location": "L126",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_deleted_authors_are_skipped",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2927,8 +2997,8 @@
       "source_location": "L139",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_duplicate_submission_ids_do_not_inflate_any_counter",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2939,8 +3009,8 @@
       "source_location": "L219",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_exhausted_queue_completes",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_exhausted_queue_completes",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2951,8 +3021,8 @@
       "source_location": "L82",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_subreddit_encounters_have_one_queue_entry_and_fetch",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2963,8 +3033,8 @@
       "source_location": "L64",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_repeated_user_encounters_have_one_history_fetch",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
       "confidence_score": 1.0
     },
     {
@@ -2975,8 +3045,155 @@
       "source_location": "L50",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
-      "target": "tests_test_community_graph_crawler_fakeredditreader",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_test_seed_names_are_normalized_and_processed_once",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_crawler_fakeredditreader",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L16",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client",
+      "target": "tests_test_community_graph_reddit_client_fakereddit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L8",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client",
+      "target": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L24",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client",
+      "target": "tests_test_community_graph_reddit_client_reader_with_error",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L32",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client",
+      "target": "tests_test_community_graph_reddit_client_test_missing_user_history_is_treated_as_empty",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L38",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client",
+      "target": "tests_test_community_graph_reddit_client_test_other_user_history_errors_remain_fatal",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L21",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakereddit_redditor",
+      "target": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L9",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "target": "tests_test_community_graph_reddit_client_fakeusersubmissions_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L12",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakeusersubmissions",
+      "target": "tests_test_community_graph_reddit_client_fakeusersubmissions_new",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L17",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakereddit",
+      "target": "tests_test_community_graph_reddit_client_fakereddit_init",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L20",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_fakereddit",
+      "target": "tests_test_community_graph_reddit_client_fakereddit_redditor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L28",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_reader_with_error",
+      "target": "tests_test_community_graph_reddit_client_fakereddit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L33",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_test_missing_user_history_is_treated_as_empty",
+      "target": "tests_test_community_graph_reddit_client_reader_with_error",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "calls",
+      "context": "call",
+      "confidence": "EXTRACTED",
+      "source_file": "tests/test_community_graph_reddit_client.py",
+      "source_location": "L39",
+      "weight": 1.0,
+      "_origin": "ast",
+      "source": "tests_test_community_graph_reddit_client_test_other_user_history_errors_remain_fatal",
+      "target": "tests_test_community_graph_reddit_client_reader_with_error",
       "confidence_score": 1.0
     },
     {
@@ -2986,8 +3203,8 @@
       "source_location": "L39",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting",
-      "target": "tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_completed_report_has_no_truncation_warning",
       "confidence_score": 1.0
     },
     {
@@ -2997,8 +3214,8 @@
       "source_location": "L7",
       "weight": 1.0,
       "_origin": "ast",
-      "source": "tests_test_community_graph_reporting",
-      "target": "tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
+      "source": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_py",
+      "target": "users_jameshollingsworth_projects_daedalus_worktrees_idea_engine_task_3bfa4e9e_0d34_41d1_af89_83bd4885055e_tests_test_community_graph_reporting_test_report_contains_summary_warning_and_deterministic_frequency_order",
       "confidence_score": 1.0
     },
     {
@@ -3280,7 +3497,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L56",
+      "source_location": "L57",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3291,7 +3508,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L108",
+      "source_location": "L109",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3302,7 +3519,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L478",
+      "source_location": "L479",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3313,7 +3530,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L80",
+      "source_location": "L81",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3324,7 +3541,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L464",
+      "source_location": "L465",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3335,7 +3552,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L149",
+      "source_location": "L150",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3346,7 +3563,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L243",
+      "source_location": "L244",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3357,7 +3574,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L375",
+      "source_location": "L376",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme",
@@ -3390,7 +3607,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L153",
+      "source_location": "L154",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_outputs",
@@ -3401,7 +3618,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L188",
+      "source_location": "L189",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_outputs",
@@ -3412,7 +3629,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L206",
+      "source_location": "L207",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_outputs",
@@ -3423,7 +3640,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L247",
+      "source_location": "L248",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_system_components",
@@ -3434,7 +3651,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L270",
+      "source_location": "L271",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_system_components",
@@ -3445,7 +3662,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L343",
+      "source_location": "L344",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_system_components",
@@ -3456,7 +3673,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L294",
+      "source_location": "L295",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_system_components",
@@ -3467,7 +3684,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L328",
+      "source_location": "L329",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_system_components",
@@ -3478,7 +3695,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L307",
+      "source_location": "L308",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_system_components",
@@ -3489,18 +3706,18 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L381",
+      "source_location": "L382",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_where_the_technical_nuance_is",
-      "target": "readme_community_discovery_381",
+      "target": "readme_community_discovery_382",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L394",
+      "source_location": "L395",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_where_the_technical_nuance_is",
@@ -3511,7 +3728,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L430",
+      "source_location": "L431",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_where_the_technical_nuance_is",
@@ -3522,7 +3739,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "README.md",
-      "source_location": "L413",
+      "source_location": "L414",
       "weight": 1.0,
       "_origin": "ast",
       "source": "readme_where_the_technical_nuance_is",
@@ -3544,7 +3761,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "feature_files/community_knowledge_graph.md",
-      "source_location": "L27",
+      "source_location": "L30",
       "weight": 1.0,
       "_origin": "ast",
       "source": "feature_files_community_knowledge_graph_community_knowledge_graph_discovery",
@@ -3566,7 +3783,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "feature_files/community_knowledge_graph.md",
-      "source_location": "L16",
+      "source_location": "L18",
       "weight": 1.0,
       "_origin": "ast",
       "source": "feature_files_community_knowledge_graph_community_knowledge_graph_discovery",
@@ -3577,7 +3794,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "feature_files/community_knowledge_graph.md",
-      "source_location": "L31",
+      "source_location": "L34",
       "weight": 1.0,
       "_origin": "ast",
       "source": "feature_files_community_knowledge_graph_community_knowledge_graph_discovery",
@@ -3597,5 +3814,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "7fad05a81c4529f82844703f27cd9cafa4e43cb9"
+  "built_at_commit": "f631c7d9e06228a477c6d864c7aabe3e89c7e502"
 }

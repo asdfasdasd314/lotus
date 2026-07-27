@@ -11,6 +11,7 @@ This feature discovers Reddit communities in memory by following subreddit-to-au
 - Subreddits and users are compared case-insensitively while their first observed spelling is retained for display.
 - Encounter counts are independent from expansion deduplication, and globally observed submission IDs prevent duplicate observations from inflating frequencies.
 - A subreddit is fetched at most once and a user history is fetched at most once.
+- A user-history 404 is treated as an empty history so deleted, suspended, or otherwise unavailable accounts do not stop the crawl; other Reddit failures remain fatal.
 - The crawler retains identifiers and counters only. Persistent graph storage, ranking, post content, comments, and outreach are outside this feature's ownership boundary.
 - Reaching a ceiling stops before the corresponding limit can be exceeded and marks the in-memory result as truncated.
 
@@ -34,3 +35,4 @@ HACKING
 
 - 2026-07-27: Implemented the initial bounded, in-memory Reddit community discovery crawler with deterministic reporting and fixture-only verification.
 - 2026-07-27: Added project-root `.env` credential loading during entrypoint startup while preserving process-environment precedence.
+- 2026-07-27: Made unavailable Reddit user histories non-fatal by treating HTTP 404 responses as empty histories while preserving errors for other response failures.
