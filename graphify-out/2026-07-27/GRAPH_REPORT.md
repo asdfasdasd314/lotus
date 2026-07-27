@@ -1,16 +1,16 @@
 # Graph Report - task-b1f356a9-e4f1-49d6-9be5-1edee6958010  (2026-07-27)
 
 ## Corpus Check
-- 8 files · ~3,286 words
+- 9 files · ~3,304 words
 - Verdict: corpus is large enough that graph structure adds value.
 
 ## Summary
-- 32 nodes · 25 edges · 7 communities (6 shown, 1 thin omitted)
+- 34 nodes · 26 edges · 8 communities (7 shown, 1 thin omitted)
 - Extraction: 100% EXTRACTED · 0% INFERRED · 0% AMBIGUOUS
 - Token cost: 0 input · 0 output
 
 ## Graph Freshness
-- Built from commit: `3cca429e`
+- Built from commit: `65f0d190`
 - Run `git rev-parse HEAD` and compare to check if the graph is stale.
 - Run `graphify update .` after code changes (no API cost).
 
@@ -40,7 +40,7 @@
 ## Import Cycles
 - None detected.
 
-## Communities (7 total, 1 thin omitted)
+## Communities (8 total, 1 thin omitted)
 
 ### Community 0 - "coding.md"
 Cohesion: 0.29

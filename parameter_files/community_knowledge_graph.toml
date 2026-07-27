@@ -1,0 +1,32 @@
+seed_subreddits = [
+  "programming",
+  "Python",
+  "javascript",
+  "webdev",
+  "learnprogramming",
+  "ExperiencedDevs",
+  "opensource",
+  "selfhosted",
+  "devops",
+  "dataengineering",
+  "MachineLearning",
+  "artificial",
+  "LocalLLaMA",
+  "technology",
+  "startups",
+  "Entrepreneur",
+  "SaaS",
+  "SideProject",
+  "indiehackers",
+  "coding",
+]
+
+subreddit_post_limit = 10
+user_post_limit = 10
+max_depth = 3
+
+max_subreddits = 1000
+max_users = 5000
+max_subreddit_fetches = 1000
+max_user_fetches = 5000
+max_post_observations = 50000

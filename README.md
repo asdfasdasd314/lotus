@@ -17,6 +17,40 @@ Instead, it attempts to answer questions such as:
 
 The long-term objective is to build a continuously improving knowledge graph of online communities and the relationships between technologies, audiences, and discussion patterns.
 
+## Bounded Reddit Community Discovery
+
+The current prototype discovers communities through author overlap:
+
+```text
+subreddit -> recent post author -> author's recent post subreddit
+```
+
+It starts from the 20 seeds in `parameter_files/community_knowledge_graph.toml` and performs a breadth-first crawl. The same subreddit listing and user history are each fetched at most once, while repeated encounters still increase frequency counts. Traversal depth, admitted entities, listing fetches, and total unique post observations all have independent hard ceilings. A report marked `Truncated: yes` is a bounded sample and identifies the ceiling that stopped it.
+
+The crawler retains only submission IDs during the run, subreddit and username identifiers, and counters. It does not persist post titles, bodies, comments, or full user histories, and it does not yet create a persistent graph or rank communities.
+
+Install the project with its test dependencies:
+
+```bash
+python -m pip install -e '.[test]'
+```
+
+Provide read-only Reddit application credentials through the environment:
+
+```text
+REDDIT_CLIENT_ID
+REDDIT_CLIENT_SECRET
+REDDIT_USER_AGENT
+```
+
+Use an accurate, application-specific user agent, then run the singular entrypoint:
+
+```bash
+python src/main.py
+```
+
+Configuration or missing-credential failures exit separately from Reddit API failures. A naturally complete crawl and an intentionally capped crawl both exit successfully; the report distinguishes unique subreddits discovered from subreddits processed, and unique users discovered from users expanded. Tune sampling and ceilings in the parameter file before a run. API usage must comply with the [Reddit Data API Terms](https://redditinc.com/policies/data-api-terms).
+
 ---
 
 # Core Philosophy

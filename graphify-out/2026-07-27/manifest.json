@@ -38,5 +38,10 @@
     "mtime": 1785187163.4718177,
     "ast_hash": "882e1a8c3c6176adc0ddb5527fb5a156",
     "semantic_hash": ""
+  },
+  "tests/test_main.py": {
+    "mtime": 1785188327.6323586,
+    "ast_hash": "a0af02f91388f75678722470b80202a9",
+    "semantic_hash": ""
   }
 }
