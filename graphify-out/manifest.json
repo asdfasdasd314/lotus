@@ -1,0 +1,42 @@
+{
+  ".codex/hooks.json": {
+    "mtime": 1785187163.4705713,
+    "ast_hash": "312080032b8e6b84de0e82c0bd3a0bab",
+    "semantic_hash": ""
+  },
+  "src/main.py": {
+    "mtime": 1785188287.3822632,
+    "ast_hash": "c1f6c044e26b030ae057f6727b77a025",
+    "semantic_hash": ""
+  },
+  ".agents/profiles/architecture.md": {
+    "mtime": 1785187163.4693954,
+    "ast_hash": "9df7f3cc4a8fd401e3d01b7af2096611",
+    "semantic_hash": ""
+  },
+  ".agents/profiles/coding.md": {
+    "mtime": 1785187163.4699097,
+    "ast_hash": "c1b4d88b6e5d82369a325e3ae9c1de1e",
+    "semantic_hash": ""
+  },
+  ".agents/profiles/integrating.md": {
+    "mtime": 1785187163.4701433,
+    "ast_hash": "2b89f1c84b6278e305788c89aec3a1af",
+    "semantic_hash": ""
+  },
+  ".agents/profiles/planning.md": {
+    "mtime": 1785187163.4703112,
+    "ast_hash": "c1b4d88b6e5d82369a325e3ae9c1de1e",
+    "semantic_hash": ""
+  },
+  "AGENTS.md": {
+    "mtime": 1785187163.4716685,
+    "ast_hash": "4f0b7e3ed59e798e75cf56d11241cc32",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1785187163.4718177,
+    "ast_hash": "882e1a8c3c6176adc0ddb5527fb5a156",
+    "semantic_hash": ""
+  }
+}
